@@ -1,0 +1,36 @@
+body{
+    background:white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    margin: 0px;    /*na toto nezabudajte*/
+    padding: 0px;
+}
+#headerTop{
+    background-color: red;
+    min-height: 30px; /*len demo udaje*/
+}
+
+
+#header ul {
+    list-style-type: none;
+    margin: 50px;
+    padding:;
+    overflow: hidden;
+    background-color: 3f9cb2;  /*toto je grc. farby zapijte az na vynimky pomocou hexakodu*/
+}
+
+#header li {
+    float: right;
+}
+
+#header li a {
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 18px 16px;
+    text-decoration: none;
+
+}
+#header {
+
+}
